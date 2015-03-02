@@ -1,0 +1,2 @@
+cd /cygdrive/c/Users/Emiliano/Desktop/ abrir programas
+cd python/

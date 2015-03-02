@@ -1,0 +1,7 @@
+y=float(input("dame un numero "))
+x=float(input("dame un numero "))
+mult= print (x,"*",y,"= ",x*y)
+div= print (x/y,"= ",x/y)
+rest= print(x,"/",y,"= ",x/y)
+suma=print(x,"+",y,"= ",x+y)
+mod=print(x,"%",y,"= ",x%y)
